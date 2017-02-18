@@ -1,0 +1,71 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.abstractions.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Strategy.using.autofac.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Strategy.using.autofac.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Strategy.using.autofac.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Autofac.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Autofac.Extras.DynamicProxy.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Castle.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.assert.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Autofac.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Autofac.Extras.DynamicProxy.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Castle.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.assert.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.assert.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.core.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.core.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\obj\Debug\Strategy.using.Autofac.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\obj\Debug\Strategy.using.autofac.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Strategy.using.autofac\Strategy.using.autofac\obj\Debug\Strategy.using.autofac.pdb
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Strategy.using.autofac.exe.config
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\obj\Debug\Strategy.using.autofac.exe
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\obj\Debug\Strategy.using.autofac.pdb
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.abstractions.dll
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Strategy.using.autofac.exe
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Strategy.using.autofac.pdb
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Autofac.dll
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Autofac.Extras.DynamicProxy.dll
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Castle.Core.dll
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.assert.dll
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.core.dll
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Autofac.xml
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Autofac.Extras.DynamicProxy.xml
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\Castle.Core.xml
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.assert.pdb
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.assert.xml
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.core.pdb
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.core.xml
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Admin\Desktop\Strategy.using.autofac\Strategy.using.autofac\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Strategy.using.autofac.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\obj\Debug\Strategy.using.autofac.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\obj\Debug\Strategy.using.autofac.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.abstractions.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Strategy.using.autofac.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Strategy.using.autofac.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Autofac.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Autofac.Extras.DynamicProxy.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Castle.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.assert.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Autofac.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Autofac.Extras.DynamicProxy.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Castle.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.assert.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.assert.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.core.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.core.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\obj\Debug\Strategy.using.Autofac.csprojResolveAssemblyReference.cache
