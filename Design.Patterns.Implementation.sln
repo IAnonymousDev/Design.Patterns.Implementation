@@ -3,7 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Pattern", "Strategy.Pattern\Strategy.Pattern.csproj", "{883E742A-3589-4F88-9D27-4CCB31F37A6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Pattern", "Strategy Pattern\src\Strategy.Pattern\Strategy.Pattern.csproj", "{883E742A-3589-4F88-9D27-4CCB31F37A6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{07A06E84-43F9-4ADA-A43B-4789604A591A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6FCB4868-51AC-4267-8137-E918D5F81C86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Pattern.Core", "Strategy Pattern\src\Strategy.Pattern.Core\Strategy.Pattern.Core.csproj", "{9B307D4C-03A2-405F-94EA-19037F186190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Pattern.Services", "Strategy Pattern\src\Strategy.Pattern.Services\Strategy.Pattern.Services.csproj", "{48BC15E0-8E6D-4303-99ED-1BE02971FF60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Pattern.Utilities", "Strategy Pattern\src\Strategy.Pattern.Utilities\Strategy.Pattern.Utilities.csproj", "{6DD77C2E-4C0C-4CE8-9BD5-D404062C822F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Pattern.Public", "Strategy Pattern\src\Strategy.Pattern.Public\Strategy.Pattern.Public.csproj", "{EDCCA82C-FEE0-4840-8481-859EE82430DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Pattern.Tests", "Strategy Pattern\tests\Strategy.Pattern.Tests\Strategy.Pattern.Tests.csproj", "{7EBEF444-E33C-4C8A-8F67-659B94EBEB51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +29,36 @@ Global
 		{883E742A-3589-4F88-9D27-4CCB31F37A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{883E742A-3589-4F88-9D27-4CCB31F37A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{883E742A-3589-4F88-9D27-4CCB31F37A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B307D4C-03A2-405F-94EA-19037F186190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B307D4C-03A2-405F-94EA-19037F186190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B307D4C-03A2-405F-94EA-19037F186190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B307D4C-03A2-405F-94EA-19037F186190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BC15E0-8E6D-4303-99ED-1BE02971FF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BC15E0-8E6D-4303-99ED-1BE02971FF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BC15E0-8E6D-4303-99ED-1BE02971FF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BC15E0-8E6D-4303-99ED-1BE02971FF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD77C2E-4C0C-4CE8-9BD5-D404062C822F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD77C2E-4C0C-4CE8-9BD5-D404062C822F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD77C2E-4C0C-4CE8-9BD5-D404062C822F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD77C2E-4C0C-4CE8-9BD5-D404062C822F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCCA82C-FEE0-4840-8481-859EE82430DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCCA82C-FEE0-4840-8481-859EE82430DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCCA82C-FEE0-4840-8481-859EE82430DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCCA82C-FEE0-4840-8481-859EE82430DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBEF444-E33C-4C8A-8F67-659B94EBEB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBEF444-E33C-4C8A-8F67-659B94EBEB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBEF444-E33C-4C8A-8F67-659B94EBEB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBEF444-E33C-4C8A-8F67-659B94EBEB51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{883E742A-3589-4F88-9D27-4CCB31F37A6F} = {07A06E84-43F9-4ADA-A43B-4789604A591A}
+		{9B307D4C-03A2-405F-94EA-19037F186190} = {07A06E84-43F9-4ADA-A43B-4789604A591A}
+		{48BC15E0-8E6D-4303-99ED-1BE02971FF60} = {07A06E84-43F9-4ADA-A43B-4789604A591A}
+		{6DD77C2E-4C0C-4CE8-9BD5-D404062C822F} = {07A06E84-43F9-4ADA-A43B-4789604A591A}
+		{EDCCA82C-FEE0-4840-8481-859EE82430DD} = {07A06E84-43F9-4ADA-A43B-4789604A591A}
+		{7EBEF444-E33C-4C8A-8F67-659B94EBEB51} = {6FCB4868-51AC-4267-8137-E918D5F81C86}
 	EndGlobalSection
 EndGlobal

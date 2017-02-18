@@ -1,0 +1,56 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Strategy.Pattern.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\Strategy.Pattern.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\obj\Debug\Strategy.Pattern.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\obj\Debug\Strategy.Pattern.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.abstractions.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\Strategy.Pattern.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\Strategy.Pattern.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\Autofac.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\Autofac.Extras.DynamicProxy.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\Castle.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.assert.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\Autofac.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\Autofac.Extras.DynamicProxy.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\Castle.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.assert.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.assert.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.core.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.core.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\obj\Debug\Strategy.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\obj\Debug\Strategy.Pattern.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\obj\Debug\Strategy.Pattern.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\xunit.abstractions.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\obj\Debug\Strategy.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.Public.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.Services.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.Utilities.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.Core.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.Public.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.Services.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\src\bin\Debug\Strategy.Pattern.Utilities.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\obj\Debug\Strategy.Pattern.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\obj\Debug\Strategy.Pattern.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.Public.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.Services.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.Utilities.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.Core.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.Public.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.Services.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\bin\Debug\Strategy.Pattern.Utilities.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern\obj\Debug\Strategy.Pattern.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Core\obj\Debug\Strategy.Pattern.Core.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Core\bin\Debug\Strategy.Pattern.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Core\bin\Debug\Strategy.Pattern.Core.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Core\bin\Debug\Strategy.Pattern.Public.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Core\bin\Debug\Strategy.Pattern.Public.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Core\obj\Debug\Strategy.Pattern.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Core\obj\Debug\Strategy.Pattern.Core.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Core\bin\Debug\Strategy.Pattern.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Core\bin\Debug\Strategy.Pattern.Core.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Core\bin\Debug\Strategy.Pattern.Public.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Core\bin\Debug\Strategy.Pattern.Public.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Core\obj\Debug\Strategy.Pattern.Core.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Core\obj\Debug\Strategy.Pattern.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Core\obj\Debug\Strategy.Pattern.Core.pdb

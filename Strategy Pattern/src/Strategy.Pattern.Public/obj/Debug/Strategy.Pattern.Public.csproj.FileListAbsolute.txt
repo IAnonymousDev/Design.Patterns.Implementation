@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Public\bin\Debug\Strategy.Pattern.Public.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Public\bin\Debug\Strategy.Pattern.Public.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Public\obj\Debug\Strategy.Pattern.Public.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern.Public\obj\Debug\Strategy.Pattern.Public.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Public\bin\Debug\Strategy.Pattern.Public.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Public\bin\Debug\Strategy.Pattern.Public.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Public\obj\Debug\Strategy.Pattern.Public.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Public\obj\Debug\Strategy.Pattern.Public.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy Pattern\src\Strategy.Pattern.Public\obj\Debug\Strategy.Pattern.Public.csprojResolveAssemblyReference.cache

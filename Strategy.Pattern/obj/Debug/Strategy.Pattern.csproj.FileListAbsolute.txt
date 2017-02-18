@@ -1,2 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.using.autofac\bin\Debug\Strategy.Pattern.exe.config
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Design.Patterns.Implementation\Strategy.Pattern\bin\Debug\Strategy.Pattern.exe.config
